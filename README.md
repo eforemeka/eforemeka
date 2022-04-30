@@ -1,13 +1,13 @@
 # Hi there, I'm Benny 👋
 
 ## About Me
-🔭 I am an IT Professional with 7 years of experience in Technical Support, Systems Administration and Web Development with WordPress.
-👀 I am interested in Cloud Engineering and DevOps.
-🌱 I am currently learning Python.
-💞️ I’m looking to collaborate on projects that would build my skillsets and make me more grounded in Python and Automation.
+- 🔭 I am an IT Professional with 7 years of experience in Technical Support, Systems Administration and Web Development with WordPress.
+- 👀 I am interested in Cloud Engineering and DevOps.
+- 🌱 I am currently learning Python.
+- 💞️ I’m looking to collaborate on projects that would build my skillsets and make me more grounded in Python and Automation.
 
 ## How to Reach Me
-- [Twitter](https://twitter.com/eforemeka]
+- [Twitter](https://twitter.com/eforemeka)
 - [LinkedIn](https://www.linkedin.com/in/benny-emeka/)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=eforemeka&theme=dracula&hide_border=true)
