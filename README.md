@@ -9,6 +9,9 @@
 ## How to Reach Me
 - [Twitter](https://twitter.com/eforemeka)
 - [LinkedIn](https://www.linkedin.com/in/benny-emeka/)
+- [Email](hi@benny.com.ng)
+- [Website](https://www.benny.com.ng)
+- [Résumé](https://resume.benny.com.ng/)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=eforemeka&theme=dracula&hide_border=true)
 
