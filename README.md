@@ -4,7 +4,7 @@
 - 🔭 I am an IT Professional with 7 years of experience in Technical Support, Systems Administration and Web Development with WordPress.
 - 👀 I am interested in Cloud Engineering and DevOps.
 - 🌱 I am currently learning Python.
-- 💞️ I’m looking to collaborate on projects that would build my skillsets and make me more grounded in Python and Automation.
+- 💞️ I’m looking to collaborate on projects that would build my skillsets in Scripting and Automation.
 
 ## How to Reach Me
 - [Twitter](https://twitter.com/eforemeka)
