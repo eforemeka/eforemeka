@@ -1,7 +1,7 @@
 # Hi there, I'm Benny 👋
 
 ## About Me
-- 🔭 I am an IT Professional with 7 years of experience in Technical Support, Systems Administration and Web Development.
+- 🔭 I am an IT Professional with 7+ years of experience in Technical Support, Systems Administration and Web Development.
 - 👀 I am interested in Cloud Engineering and DevOps.
 - 🌱 I am currently learning Python.
 - 💞️ I’m looking to collaborate on projects that would build my skillsets in Scripting and Automation.
